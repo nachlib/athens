@@ -1,0 +1,1211 @@
+{
+ "trip": {
+  "title": "אתונה",
+  "subtitle": "13–15 בנובמבר 2026",
+  "tz": "+02:00",
+  "timeZone": "Europe/Athens",
+  "clockLabel": "שעון אתונה",
+  "appName": "המסלול שלנו",
+  "hotel": {
+   "name": "Ambrosia Suites & Aparts",
+   "address": "Sokratous 52, Athens"
+  },
+  "days": {
+   "fri": {
+    "icon": "🛬",
+    "label": "שישי",
+    "date": "2026-11-13",
+    "full": "שישי 13.11",
+    "theme": "נחיתה, טברנה ופסירי בלילה",
+    "weather": [
+     "⛅ 22° / 17°",
+     "🌇 שקיעה 17:15"
+    ]
+   },
+   "sat": {
+    "icon": "🌅",
+    "label": "שבת",
+    "date": "2026-11-14",
+    "full": "שבת 14.11",
+    "theme": "שווקים, אקסרכיה, ליקבטוס וקוקאקי",
+    "weather": [
+     "☀️ 23° / 14°",
+     "🌇 שקיעה 17:14",
+     "🌆 דמדומים עד 17:42"
+    ],
+    "anchors": {
+     "step": "s12",
+     "sunset": "17:14",
+     "dusk": "17:42",
+     "ffLabel": "⏩ עברו לכרטיס הפסגה",
+     "msgBefore": "נותרו {x} עד זמן ההגעה המתוכנן לפסגה ({t}).",
+     "msgBeforeSunset": "נותרו {x} עד השקיעה ({t}). כדאי לעבור ישירות לפסגה.",
+     "msgAfterSunset": "השקיעה כבר חלפה. אפשר להישאר לתצפית כחול השעה או להמשיך לקוקאקי."
+    }
+   },
+   "sun": {
+    "icon": "✈️",
+    "label": "ראשון",
+    "date": "2026-11-15",
+    "full": "ראשון 15.11",
+    "theme": "חזרה לשדה",
+    "weather": [
+     "⛅ 20° / 12°",
+     "🌅 זריחה 07:05"
+    ]
+   }
+  },
+  "id": "athens2026",
+  "lang": "he",
+  "dir": "rtl"
+ },
+ "places": {
+  "AIRPORT": "Athens International Airport Eleftherios Venizelos",
+  "AIRPORT_METRO": "Athens Airport Metro Station",
+  "SYNTAGMA_ST": "Syntagma Metro Station, Athens",
+  "OMONIA_ST": "Omonia Metro Station, Athens",
+  "HOTEL": "Ambrosia Suites & Aparts, Sokratous 52, Athens",
+  "KLIMATARIA": "Klimataria, Plateia Theatrou 2, Athens",
+  "PSYRRI_SQ": "Plateia Iroon, Psyrri, Athens",
+  "LITTLE_KOOK": "Little Kook, Karaiskaki 17, Athens",
+  "MIAOULI": "Miaouli Street, Psyrri, Athens",
+  "MONASTIRAKI_SQ": "Monastiraki Square, Athens",
+  "MONASTIRAKI_ST": "Monastiraki Metro Station, Athens",
+  "VARVAKIOS": "Varvakios Agora, Athinas 42, Athens",
+  "EVRIPIDOU": "Evripidou Street, Athens",
+  "STOA": "STOA Arsakeiou, Stadiou 44, Athens",
+  "KALLIDROMIOU": "Kallidromiou Street Market, Exarchia, Athens",
+  "POLYTECHNIC": "National Technical University of Athens, Patision 42, Athens",
+  "EXARCHIA_SQ": "Exarchia Square, Athens",
+  "ALOUATOU": "Alouatou, Asklipiou, Athens",
+  "LESVOS": "Ouzeri Lesvos, Emmanouil Benaki 38, Athens",
+  "STREFI": "Strefi Hill, Emmanouil Benaki 134, Athens",
+  "SARANTAPICHOU": "Sarantapichou Street, Athens",
+  "ISIDOROI": "Church of Agioi Isidoroi, Lycabettus, Athens",
+  "THEATRE": "Lycabettus Theatre, Athens",
+  "SUMMIT": "Chapel of Saint George, Lycabettus Hill, Athens",
+  "ARISTIPPOU": "Aristippou 1, Athens",
+  "PINAKOTHIKI": "National Gallery Alexandros Soutsos Museum, Vasileos Konstantinou 50, Athens",
+  "EVANGELISMOS": "Evangelismos Metro Station, Athens",
+  "SYNGROU_FIX": "Syngrou-Fix Metro Station, Athens",
+  "DRAKOU": "Drakou Street, Koukaki, Athens",
+  "VEIKOU": "Veikou Street, Koukaki, Athens",
+  "GYROS": "O Gyros Pou Gyrevis, Athanasiou Diakou 1, Athens",
+  "DIONYSIOU": "Dionysiou Areopagitou, Athens",
+  "AKROPOLI_ST": "Akropoli Metro Station, Athens"
+ },
+ "images": {
+  "omonia": {
+   "file": "Omonoia-Athens4.jpg",
+   "p": "7/77",
+   "w": 960,
+   "credit": "Salonica84, Public Domain"
+  },
+  "psyrri": {
+   "file": "Psyrri, Athens.jpg",
+   "p": "b/bc",
+   "w": 960,
+   "credit": "Pavlos1988, CC BY-SA 4.0"
+  },
+  "psyrri_sq": {
+   "file": "Psyrri square Athens.jpg",
+   "p": "b/b8",
+   "w": 960,
+   "credit": "Badseed, CC BY-SA 3.0"
+  },
+  "monastiraki": {
+   "file": "Monastiraki Square and Acropolis in Athens (44149181684).jpg",
+   "p": "7/74",
+   "w": 960,
+   "credit": "dronepicr, CC BY 2.0"
+  },
+  "varvakios": {
+   "file": "Central Market of Athens.jpg",
+   "p": "7/75",
+   "w": 500,
+   "credit": "Wikimedia Commons"
+  },
+  "stoa": {
+   "file": "View of Stoa Arsakeiou on August 17, 2020.jpg",
+   "p": "2/2d",
+   "w": 960,
+   "credit": "Wikimedia Commons"
+  },
+  "exarchia": {
+   "file": "Exarchia square Athens.jpg",
+   "p": "0/06",
+   "w": 960,
+   "credit": "Badseed, CC BY-SA 3.0"
+  },
+  "polytechnic": {
+   "file": "NTUA - Patision Complex.jpg",
+   "p": "3/3b",
+   "w": 500,
+   "credit": "גלויה מ-1900, Public Domain"
+  },
+  "strefi": {
+   "file": "Attica 06-13 Athens 38 View from Lycabettus - Strefi Hill.jpg",
+   "p": "1/17",
+   "w": 500,
+   "credit": "Wikimedia Commons"
+  },
+  "lycabettus": {
+   "file": "Mount Lycabettus.jpg",
+   "p": "8/81",
+   "w": 960,
+   "credit": "Greenshed, Public Domain"
+  },
+  "slope": {
+   "file": "Ateny Lykavitos pohled z jizniho svahu na vychod.jpg",
+   "p": "e/e7",
+   "w": 960,
+   "credit": "Wikimedia Commons"
+  },
+  "theatre": {
+   "file": "The Theatre of Lycabettus on November 30, 2019.jpg",
+   "p": "8/87",
+   "w": 960,
+   "credit": "Wikimedia Commons"
+  },
+  "chapel": {
+   "file": "Chapel of Saint George (crop).jpg",
+   "p": "d/d9",
+   "w": 960,
+   "credit": "Wikimedia Commons"
+  },
+  "sunsetview": {
+   "file": "View from Lycabettus Hill in Athens, 20240531 1921 9901.jpg",
+   "p": "c/c1",
+   "w": 960,
+   "credit": "Wikimedia Commons"
+  },
+  "acropolis": {
+   "file": "Acropolis.JPG",
+   "p": "b/ba",
+   "w": 960,
+   "credit": "Adam L. Clevenger, CC BY-SA 2.5"
+  }
+ },
+ "steps": [
+  {
+   "id": "f1",
+   "day": "fri",
+   "start": "15:10",
+   "end": "15:50",
+   "kind": "flight",
+   "emoji": "🛬",
+   "title": "נחיתה ויציאה מהטרמינל",
+   "sub": "ATH Airport",
+   "text": "תיקי גב בלבד, אין המתנה למזוודות. ביקורת גבולות צפויה בין 15:30 ל-15:50. ממשיכים לפי השילוט Trains אל הגשר המקורה מול הטרמינל.",
+   "tips": [
+    "בדלפק המאויש בתחנה: כרטיס תייר ל-3 ימים, €20 לאדם. כולל נסיעה אחת מהשדה ואחת אליו במטרו, ותחבורה עירונית ללא הגבלה."
+   ],
+   "say": "Two 3-day tourist tickets, please.",
+   "nav": {
+    "type": "dest",
+    "destination": "Athens Airport Metro Station",
+    "mode": "walking",
+    "label": "ניווט לתחנת המטרו בשדה"
+   }
+  },
+  {
+   "id": "f2",
+   "day": "fri",
+   "start": "15:50",
+   "end": "16:50",
+   "kind": "metro",
+   "emoji": "🚇",
+   "title": "מטרו למלון: M3 ואז M2",
+   "sub": "Airport → Syntagma → Omonia",
+   "text": "עולים על M3 הכחול לכיוון Dimotiko Theatro ויורדים ב-Syntagma, כ-40 דקות. מחליפים ל-M2 האדום לכיוון Anthoupoli ויורדים אחרי שתי תחנות ב-Omonia.",
+   "transit": [
+    {
+     "line": "M3",
+     "color": "#1565c0",
+     "dir": "Dimotiko Theatro",
+     "off": "Syntagma"
+    },
+    {
+     "line": "M2",
+     "color": "#d32f2f",
+     "dir": "Anthoupoli",
+     "off": "Omonia"
+    }
+   ],
+   "warn": [
+    "רכבות לשדה יוצאות רק כל 30–36 דקות. אם הרכבת יצאה הרגע, ההמתנה ארוכה.",
+    "מתקפים את הכרטיס בכל כניסה, גם בהחלפה."
+   ],
+   "nav": {
+    "type": "transit",
+    "origin": "Athens Airport Metro Station",
+    "destination": "Omonia Metro Station, Athens",
+    "label": "מסלול תחבורה למלון"
+   }
+  },
+  {
+   "id": "f3",
+   "day": "fri",
+   "start": "16:50",
+   "end": "17:00",
+   "kind": "hotel",
+   "emoji": "🏨",
+   "img": "omonia",
+   "title": "הנחת תיקים במלון",
+   "sub": "Ambrosia Suites & Aparts",
+   "text": "יציאה מהתחנה לכיוון רחוב Sokratous. המלון נמצא בדרך לטברנה, כך שזו עצירה של כמה דקות בלבד.",
+   "tips": [
+    "אם המטרו התעכב משמעותית, אפשר לדלג על המלון ולהמשיך ישר לטברנה עם תיקי הגב."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "Ambrosia Suites & Aparts, Sokratous 52, Athens",
+    "mode": "walking",
+    "label": "ניווט למלון"
+   }
+  },
+  {
+   "id": "f4",
+   "day": "fri",
+   "start": "17:00",
+   "end": "19:15",
+   "kind": "food",
+   "emoji": "🎶",
+   "title": "ארוחת ערב בקלימטריה",
+   "sub": "Klimataria · הזמנה שמורה ל-16:30",
+   "booking": "16:30",
+   "text": "טברנה אתונאית משנת 1927 בכיכר Theatrou, כ-5 דקות מהמלון. הזמנה שמורה ל-16:30. שעת ההגעה בפועל תלויה ביציאה מהשדה.",
+   "tips": [
+    "להזמנה לשניים: פאבה או סלט חצילים, קציצות קישואים, כבש בגסטרה עם תפוחי אדמה ויין הבית. בסביבות €55–70 לזוג.",
+    "חלק מהנקניקים ומנות כמו סוג׳וק עשויים להכיל חזיר.",
+    "לפי האתר הרשמי המוזיקה החיה בשישי ב-22:00. מוזיקה בשעה מוקדמת יותר אינה מובטחת.",
+    "ברירת המחדל: עצירה קצרה במלון להנחת התיקים, כי הוא קרוב ובדרך. הגעה ישירה עם התיקים רק אם יש עיכוב משמעותי."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "Klimataria, Plateia Theatrou 2, Athens",
+    "mode": "walking",
+    "label": "ניווט לקלימטריה"
+   }
+  },
+  {
+   "id": "f5",
+   "day": "fri",
+   "start": "19:15",
+   "end": "19:35",
+   "kind": "walk",
+   "emoji": "🚶",
+   "img": "psyrri_sq",
+   "title": "הליכה לפסירי ול-Little Kook",
+   "sub": "Klimataria → Iroon Sq → Little Kook",
+   "text": "יורדים מכיכר Theatrou אל לב פסירי, כיכר Iroon, וממשיכים לרחוב Karaiskaki.",
+   "tips": [
+    "פסירי מתעוררת באמת אחרי 21:00 ובשישי היא עמוסה מאוד."
+   ],
+   "stops": [
+    "Klimataria",
+    "כיכר Iroon",
+    "Little Kook"
+   ],
+   "nav": {
+    "type": "route",
+    "origin": "Klimataria, Plateia Theatrou 2, Athens",
+    "waypoints": [
+     "Plateia Iroon, Psyrri, Athens"
+    ],
+    "destination": "Little Kook, Karaiskaki 17, Athens",
+    "mode": "walking",
+    "label": "מסלול הליכה לפסירי"
+   }
+  },
+  {
+   "id": "f6",
+   "day": "fri",
+   "start": "19:35",
+   "end": "20:05",
+   "kind": "sight",
+   "emoji": "🎄",
+   "title": "Little Kook",
+   "sub": "Karaiskaki 17",
+   "text": "בית הקפה התיאטרלי של פסירי. החזית, החלונות והאורות ברחוב הם חלק מהחוויה, ובנובמבר צפויה כבר אווירת חג המולד.",
+   "tips": [
+    "פתוח עד חצות. אפשר להסתפק בהצצה וצילום מבחוץ, או לשבת לקינוח."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "Little Kook, Karaiskaki 17, Athens",
+    "mode": "walking",
+    "label": "ניווט ל-Little Kook"
+   }
+  },
+  {
+   "id": "f7",
+   "day": "fri",
+   "start": "20:05",
+   "end": "20:45",
+   "kind": "walk",
+   "emoji": "🌃",
+   "img": "monastiraki",
+   "title": "סמטאות פסירי עד מונסטיראקי",
+   "sub": "Little Kook → Miaouli → Monastiraki",
+   "text": "דרך המדרחוב Miaouli אל כיכר מונסטיראקי. מהכיכר רואים את האקרופוליס המואר מעל העיר.",
+   "stops": [
+    "Little Kook",
+    "Miaouli",
+    "כיכר מונסטיראקי"
+   ],
+   "nav": {
+    "type": "route",
+    "origin": "Little Kook, Karaiskaki 17, Athens",
+    "waypoints": [
+     "Miaouli Street, Psyrri, Athens"
+    ],
+    "destination": "Monastiraki Square, Athens",
+    "mode": "walking",
+    "label": "מסלול הליכה למונסטיראקי"
+   }
+  },
+  {
+   "id": "f8",
+   "day": "fri",
+   "start": "20:45",
+   "end": "21:05",
+   "kind": "metro",
+   "emoji": "🚇",
+   "title": "חזרה למלון",
+   "sub": "M1: Monastiraki → Omonia",
+   "text": "תחנה אחת ב-M1 הירוק לכיוון Kifisia, או הליכה של כ-15 דקות לאורך Athinas.",
+   "transit": [
+    {
+     "line": "M1",
+     "color": "#2e7d32",
+     "dir": "Kifisia",
+     "off": "Omonia"
+    }
+   ],
+   "nav": {
+    "type": "transit",
+    "origin": "Monastiraki Metro Station, Athens",
+    "destination": "Ambrosia Suites & Aparts, Sokratous 52, Athens",
+    "label": "מסלול חזרה למלון"
+   }
+  },
+  {
+   "id": "f9",
+   "day": "fri",
+   "start": "22:00",
+   "end": "23:00",
+   "kind": "food",
+   "emoji": "🪕",
+   "optional": true,
+   "title": "בונוס: מוזיקה חיה בקלימטריה",
+   "sub": "אופציונלי · רק אם יש כוח",
+   "text": "הטברנה במרחק כ-5 דקות מהמלון. אם בארוחה לא הייתה מוזיקה, אפשר לחזור לשתייה בזמן ההופעה של 22:00.",
+   "tips": [
+    "מחר יוצאים ב-08:45, אז כדאי לא להאריך יותר מדי."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "Klimataria, Plateia Theatrou 2, Athens",
+    "mode": "walking",
+    "label": "ניווט לקלימטריה"
+   }
+  },
+  {
+   "id": "s1",
+   "day": "sat",
+   "start": "08:00",
+   "end": "08:45",
+   "kind": "hotel",
+   "emoji": "🥐",
+   "title": "ארוחת בוקר במלון",
+   "sub": "Ambrosia Suites",
+   "text": "ארוחת בוקר טובה. היום ארוך ורוב הארוחות קלות.",
+   "tips": [
+    "לקחת: מעיל רוח קל לפסגה, פנס בטלפון טעון, מים, מזומן לגירוס בערב."
+   ],
+   "nav": null
+  },
+  {
+   "id": "s2",
+   "day": "sat",
+   "start": "08:45",
+   "end": "09:00",
+   "kind": "walk",
+   "emoji": "🚶",
+   "title": "הליכה לשוק המרכזי",
+   "sub": "Hotel → Varvakios",
+   "text": "כ-700 מטר, 10–12 דקות הליכה דרומה.",
+   "nav": {
+    "type": "dest",
+    "destination": "Varvakios Agora, Athinas 42, Athens",
+    "mode": "walking",
+    "label": "ניווט לשוק ורבקיוס"
+   }
+  },
+  {
+   "id": "s3",
+   "day": "sat",
+   "start": "09:00",
+   "end": "10:10",
+   "kind": "sight",
+   "emoji": "🐟",
+   "img": "varvakios",
+   "title": "שוק ורבקיוס ורחוב Evripidou",
+   "sub": "Varvakios Agora",
+   "text": "אולם הבשר והדגים מהמאה ה-19, דוכני הירקות שמעבר לרחוב Athinas, ואז רחוב Evripidou עם התבלינים, הקטניות, הגבינות והזיתים.",
+   "tips": [
+    "השוק פתוח בשני עד שבת 08:00–18:00 והכניסה חופשית.",
+    "בשבת בבוקר השוק בשיא הפעילות."
+   ],
+   "stops": [
+    "אולם הבשר והדגים",
+    "דוכני הירקות",
+    "Evripidou"
+   ],
+   "nav": {
+    "type": "route",
+    "origin": "Varvakios Agora, Athinas 42, Athens",
+    "waypoints": [],
+    "destination": "Evripidou Street, Athens",
+    "mode": "walking",
+    "label": "מסלול השוק"
+   }
+  },
+  {
+   "id": "s4",
+   "day": "sat",
+   "start": "10:10",
+   "end": "10:20",
+   "kind": "walk",
+   "emoji": "🚶",
+   "title": "הליכה ל-STOA",
+   "sub": "Evripidou → Aiolou → Stadiou",
+   "text": "כ-600 מטר, 7–9 דקות נטו. נכנסים מרחוב Stadiou.",
+   "nav": {
+    "type": "dest",
+    "destination": "STOA Arsakeiou, Stadiou 44, Athens",
+    "mode": "walking",
+    "label": "ניווט ל-STOA"
+   }
+  },
+  {
+   "id": "s5",
+   "day": "sat",
+   "start": "10:20",
+   "end": "11:00",
+   "kind": "sight",
+   "emoji": "🏛️",
+   "img": "stoa",
+   "title": "STOA Arsakeiou",
+   "sub": "Στοά Αρσακείου",
+   "text": "הארקדה הנאו-קלאסית של הארסקיון שנפתחה מחדש. במרכז שולחן קהילתי עגול מתחת לכיפת זכוכית, סביבו דוכני שפים, ו-STOA Agora עם מוצרים של יותר מ-300 יצרנים יווניים.",
+   "tips": [
+    "בשבת פתוח מ-08:00. רוב דוכני האוכל החם פועלים מהצהריים, אז עכשיו זה ביקור אדריכלי עם קפה קצר.",
+    "בא לכם מתוק? לוקומאדס בתוך המתחם."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "STOA Arsakeiou, Stadiou 44, Athens",
+    "mode": "walking",
+    "label": "ניווט ל-STOA"
+   }
+  },
+  {
+   "id": "s6",
+   "day": "sat",
+   "start": "11:00",
+   "end": "11:25",
+   "kind": "walk",
+   "emoji": "🚶",
+   "title": "עלייה לאקסרכיה",
+   "sub": "Panepistimiou → Charilaou Trikoupi → Kallidromiou",
+   "text": "כ-1.3 ק״מ בעלייה מתונה, כ-20 דקות.",
+   "nav": {
+    "type": "dest",
+    "destination": "Kallidromiou Street Market, Exarchia, Athens",
+    "mode": "walking",
+    "label": "ניווט לשוק Kallidromiou"
+   }
+  },
+  {
+   "id": "s7",
+   "day": "sat",
+   "start": "11:25",
+   "end": "12:30",
+   "kind": "sight",
+   "emoji": "🍅",
+   "img": "exarchia",
+   "title": "שוק Kallidromiou ואקסרכיה",
+   "sub": "Laiki · Exarchia Sq · Polytechnic",
+   "text": "שוק השכונה של שבת: ירקות, פירות, זיתים, גבינות ועשבי תיבול. משם לחזית הפוליטכניון, אתר מרד הסטודנטים של נובמבר 1973, וחזרה לכיכר אקסרכיה עם הגרפיטי וחנויות הספרים.",
+   "tips": [
+    "אירועי הזיכרון בפוליטכניון מתחילים רק ב-15.11, כך שבשבת האזור רגיל."
+   ],
+   "stops": [
+    "שוק Kallidromiou",
+    "הפוליטכניון",
+    "כיכר אקסרכיה"
+   ],
+   "nav": {
+    "type": "route",
+    "origin": "Kallidromiou Street Market, Exarchia, Athens",
+    "waypoints": [
+     "National Technical University of Athens, Patision 42, Athens"
+    ],
+    "destination": "Exarchia Square, Athens",
+    "mode": "walking",
+    "label": "מסלול אקסרכיה"
+   }
+  },
+  {
+   "id": "s8",
+   "day": "sat",
+   "start": "12:30",
+   "end": "13:15",
+   "kind": "food",
+   "emoji": "🥧",
+   "title": "צהריים קלים: ספנקוטירופיטה",
+   "sub": "Alouatou · Asklipiou",
+   "text": "מיקרו-מאפייה שמתמחה בפשטידות פילו מסורתיות. מזמינים חתיכה גדולה לכל אחד.",
+   "say": "Mia spanakotiropita, parakalo",
+   "tips": [
+    "המאפים נגמרים מהר. עדיף להגיע לפני 13:00.",
+    "חלופה עם ישיבה: Ouzeri Lesvos, ‏3 מזטים לחלוקה, כ-€20–30 לשניים."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "Alouatou, Asklipiou, Athens",
+    "mode": "walking",
+    "label": "ניווט ל-Alouatou"
+   },
+   "alt": {
+    "destination": "Ouzeri Lesvos, Emmanouil Benaki 38, Athens",
+    "label": "חלופה: Ouzeri Lesvos"
+   }
+  },
+  {
+   "id": "s9",
+   "day": "sat",
+   "start": "13:20",
+   "end": "13:45",
+   "kind": "view",
+   "emoji": "🌳",
+   "img": "strefi",
+   "title": "גבעת סטרפי",
+   "sub": "Lofos Strefi",
+   "text": "גבעה ירוקה וחינמית מעל אקסרכיה, עם מדרגות אבן, גרפיטי ותצפית לאקרופוליס ולליקבטוס. 10–15 דקות למעלה מספיקות.",
+   "warn": [
+    "יורדים רק במדרגות האבן דרך האמפיתיאטרון ומגרש הכדורסל. הצד הצפון-מזרחי הוא קיר מחצבה תלול."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "Strefi Hill, Emmanouil Benaki 134, Athens",
+    "mode": "walking",
+    "label": "ניווט לגבעת סטרפי"
+   }
+  },
+  {
+   "id": "s10",
+   "day": "sat",
+   "start": "13:45",
+   "end": "14:15",
+   "kind": "walk",
+   "emoji": "🚶",
+   "title": "הליכה לתחילת שביל ליקבטוס",
+   "sub": "Strefi → Sarantapichou",
+   "text": "מזרחה דרך Isavron או Charilaou Trikoupi עד רחוב Sarantapichou, הכניסה לשבילי האורנים.",
+   "nav": {
+    "type": "dest",
+    "destination": "Sarantapichou Street, Athens",
+    "mode": "walking",
+    "label": "ניווט ל-Sarantapichou"
+   }
+  },
+  {
+   "id": "s11",
+   "day": "sat",
+   "start": "14:15",
+   "end": "16:15",
+   "kind": "nature",
+   "emoji": "🌲",
+   "img": "slope",
+   "title": "מסלול הטבע של ליקבטוס",
+   "sub": "Agioi Isidoroi → Theatre → Summit",
+   "text": "שבילי עפר ואורנים במדרון: כנסיית Agioi Isidoroi החצובה בסלע, שביל האורנים ו-Split Rock, תיאטרון ליקבטוס, ומשם לפסגה.",
+   "tips": [
+    "יש זמן בשפע. אם מגיעים לתיאטרון מוקדם, מאריכים בשביל האורנים."
+   ],
+   "warn": [
+    "הפיצולים בשבילים לא מופיעים זהה בכל האפליקציות. בצמתים בודקים בניווט חי."
+   ],
+   "stops": [
+    "Sarantapichou",
+    "Agioi Isidoroi",
+    "התיאטרון",
+    "הפסגה"
+   ],
+   "nav": {
+    "type": "route",
+    "origin": "Sarantapichou Street, Athens",
+    "waypoints": [
+     "Church of Agioi Isidoroi, Lycabettus, Athens",
+     "Lycabettus Theatre, Athens"
+    ],
+    "destination": "Chapel of Saint George, Lycabettus Hill, Athens",
+    "mode": "walking",
+    "label": "מסלול השביל לפסגה"
+   }
+  },
+  {
+   "id": "s12",
+   "day": "sat",
+   "start": "16:15",
+   "end": "17:45",
+   "kind": "view",
+   "emoji": "🌅",
+   "img": "sunsetview",
+   "highlight": true,
+   "title": "פסגת ליקבטוס: שקיעה ושעה כחולה",
+   "sub": "Agios Georgios · 277 מ׳",
+   "text": "השיא של הטיול. האקרופוליס ממול, הים באופק, ואז העיר נדלקת. השקיעה ב-17:14 וסוף הדמדומים בערך ב-17:42.",
+   "tips": [
+    "להתמקם על הטרסה 30–45 דקות לפני השקיעה.",
+    "בנובמבר הטרסה לרוב כמעט ריקה.",
+    "לצילום העיר המוארת: 17:20–17:50."
+   ],
+   "warn": [
+    "ברוח של אחרי השקיעה מתקרר מהר. מעיל רוח."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "Chapel of Saint George, Lycabettus Hill, Athens",
+    "mode": "walking",
+    "label": "ניווט לפסגה"
+   }
+  },
+  {
+   "id": "s13",
+   "day": "sat",
+   "start": "17:45",
+   "end": "18:10",
+   "kind": "walk",
+   "emoji": "🔦",
+   "img": "chapel",
+   "title": "ירידה רגלית לקולונקי",
+   "sub": "Summit → Aristippou",
+   "text": "בשביל הראשי, המרוצף והמואר, עם המדרגות עד Aristippou. בלי שבילי יער צדדיים בחושך.",
+   "tips": [
+    "פנס הטלפון דלוק, נעליים עם אחיזה."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "Aristippou 1, Athens",
+    "mode": "walking",
+    "label": "ניווט ל-Aristippou"
+   }
+  },
+  {
+   "id": "s14",
+   "day": "sat",
+   "start": "18:10",
+   "end": "18:25",
+   "kind": "walk",
+   "emoji": "🚏",
+   "title": "הליכה לתחנת Pinakothiki",
+   "sub": "Aristippou → Marasli → National Gallery",
+   "text": "כ-850 מטר בירידה דרך Marasli, כ-14 דקות. התחנה מול הגלריה הלאומית.",
+   "warn": [
+    "לעמוד בצד שבו התנועה נוסעת דרומה, לכיוון האצטדיון ו-Syngrou."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "National Gallery Alexandros Soutsos Museum, Vasileos Konstantinou 50, Athens",
+    "mode": "walking",
+    "label": "ניווט לתחנת Pinakothiki"
+   }
+  },
+  {
+   "id": "s15",
+   "day": "sat",
+   "start": "18:25",
+   "end": "18:55",
+   "kind": "bus",
+   "emoji": "🚌",
+   "title": "אוטובוס 550 או טרוליבוס 10",
+   "sub": "Pinakothiki → Syngrou-Fix",
+   "text": "עולים על הראשון שמגיע ויורדים בתחנת Στ. Συγγρού-Φιξ. הנסיעה 7–12 דקות.",
+   "transit": [
+    {
+     "line": "550",
+     "color": "#0277bd",
+     "dir": "Π. Φάληρο",
+     "off": "Συγγρού-Φιξ"
+    },
+    {
+     "line": "טרולי 10",
+     "color": "#ef6c00",
+     "dir": "Τζιτζιφιές",
+     "off": "Συγγρού-Φιξ"
+    }
+   ],
+   "warn": [
+    "ל-550 בשבת בערב יש מרווחים של 20–25 דקות.",
+    "אם מופיע Kifisia או Chalandri, זה הכיוון ההפוך.",
+    "אם שני הקווים רחוקים יותר מ-18 דקות: M3 מ-Evangelismos ל-Syntagma, ואז M2 ל-Syngrou-Fix."
+   ],
+   "nav": {
+    "type": "transit",
+    "origin": "National Gallery Alexandros Soutsos Museum, Vasileos Konstantinou 50, Athens",
+    "destination": "Syngrou-Fix Metro Station, Athens",
+    "label": "מסלול תחבורה ל-Syngrou-Fix"
+   },
+   "alt": {
+    "type": "transit",
+    "origin": "Evangelismos Metro Station, Athens",
+    "destination": "Syngrou-Fix Metro Station, Athens",
+    "label": "גיבוי במטרו"
+   }
+  },
+  {
+   "id": "s16",
+   "day": "sat",
+   "start": "18:55",
+   "end": "20:00",
+   "kind": "walk",
+   "emoji": "🏘️",
+   "title": "קוקאקי מדרום לצפון",
+   "sub": "Drakou → Veikou → Akropoli",
+   "text": "שכונה מקומית ורגועה בערב: מדרחוב Drakou עם הברים והטברנות, ממשיכים צפונה ב-Veikou ומגיעים לאזור Akropoli בלי הליכה כפולה.",
+   "stops": [
+    "Syngrou-Fix",
+    "Drakou",
+    "Veikou",
+    "הגירוס"
+   ],
+   "nav": {
+    "type": "route",
+    "origin": "Syngrou-Fix Metro Station, Athens",
+    "waypoints": [
+     "Drakou Street, Koukaki, Athens",
+     "Veikou Street, Koukaki, Athens"
+    ],
+    "destination": "O Gyros Pou Gyrevis, Athanasiou Diakou 1, Athens",
+    "mode": "walking",
+    "label": "מסלול הליכה בקוקאקי"
+   }
+  },
+  {
+   "id": "s17",
+   "day": "sat",
+   "start": "20:00",
+   "end": "20:45",
+   "kind": "food",
+   "emoji": "🥙",
+   "title": "גירוס ב-O Gyros Pou Gyrevis",
+   "sub": "Athanasiou Diakou 1",
+   "text": "גירוס פשוט, טרי וזול, צמוד לתחנת Akropoli ומול מוזיאון האקרופוליס. בערך €3.50 לפיתה.",
+   "tips": [
+    "מזומן בלבד.",
+    "פתוח עד 23:00."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "O Gyros Pou Gyrevis, Athanasiou Diakou 1, Athens",
+    "mode": "walking",
+    "label": "ניווט לגירוס"
+   }
+  },
+  {
+   "id": "s18",
+   "day": "sat",
+   "start": "20:45",
+   "end": "21:05",
+   "kind": "view",
+   "emoji": "✨",
+   "img": "acropolis",
+   "optional": true,
+   "title": "בונוס: האקרופוליס המואר",
+   "sub": "Dionysiou Areopagitou",
+   "text": "שתי דקות מהגירוס מתחיל המדרחוב שמתחת לסלע. כמה מאות מטרים עם האקרופוליס המואר מעל, ובחזרה לתחנה.",
+   "nav": {
+    "type": "dest",
+    "destination": "Dionysiou Areopagitou, Athens",
+    "mode": "walking",
+    "label": "ניווט ל-Dionysiou Areopagitou"
+   }
+  },
+  {
+   "id": "s19",
+   "day": "sat",
+   "start": "21:05",
+   "end": "21:30",
+   "kind": "metro",
+   "emoji": "🚇",
+   "title": "חזרה למלון",
+   "sub": "M2: Akropoli → Omonia",
+   "text": "M2 האדום לכיוון Anthoupoli, שלוש תחנות בלי החלפה.",
+   "transit": [
+    {
+     "line": "M2",
+     "color": "#d32f2f",
+     "dir": "Anthoupoli",
+     "off": "Omonia"
+    }
+   ],
+   "tips": [
+    "בשבת M2 ו-M3 פועלים כל הלילה.",
+    "בערב: לבדוק ב-STASY את רכבת המטרה לבדיקה, 06:49 מ-Syntagma, ולארוז."
+   ],
+   "nav": {
+    "type": "transit",
+    "origin": "Akropoli Metro Station, Athens",
+    "destination": "Ambrosia Suites & Aparts, Sokratous 52, Athens",
+    "label": "מסלול חזרה למלון"
+   }
+  },
+  {
+   "id": "u1",
+   "day": "sun",
+   "start": "06:15",
+   "end": "06:25",
+   "kind": "walk",
+   "emoji": "🎒",
+   "title": "יציאה מהמלון לאומוניה",
+   "sub": "Hotel → Omonia",
+   "text": "כ-7 דקות הליכה לתחנה.",
+   "warn": [
+    "אירועי הפוליטכניון מתחילים היום. לא ללכת צפונה לכיוון Patission ו-Stournari."
+   ],
+   "nav": {
+    "type": "dest",
+    "destination": "Omonia Metro Station, Athens",
+    "mode": "walking",
+    "label": "ניווט לתחנת Omonia"
+   }
+  },
+  {
+   "id": "u2",
+   "day": "sun",
+   "start": "06:25",
+   "end": "06:40",
+   "kind": "metro",
+   "emoji": "🚇",
+   "title": "M2 לסינטגמה",
+   "sub": "Omonia → Syntagma",
+   "text": "M2 האדום לכיוון Elliniko, שתי תחנות. בסינטגמה עוברים לרציף M3.",
+   "transit": [
+    {
+     "line": "M2",
+     "color": "#d32f2f",
+     "dir": "Elliniko",
+     "off": "Syntagma"
+    }
+   ],
+   "nav": {
+    "type": "transit",
+    "origin": "Omonia Metro Station, Athens",
+    "destination": "Syntagma Metro Station, Athens",
+    "label": "מסלול לסינטגמה"
+   }
+  },
+  {
+   "id": "u3",
+   "day": "sun",
+   "start": "06:40",
+   "end": "07:35",
+   "kind": "metro",
+   "emoji": "✈️",
+   "title": "M3 לשדה התעופה",
+   "sub": "Syntagma → Airport",
+   "text": "רכבת מטרה לבדיקה: 06:49 מ-Syntagma. רק חלק מרכבות M3 ממשיכות לשדה, לכן בודקים שעל הרכבת כתוב Αεροδρόμιο / Airport.",
+   "targetTrain": "06:49",
+   "transit": [
+    {
+     "line": "M3",
+     "color": "#1565c0",
+     "dir": "Airport · Αεροδρόμιο",
+     "off": "Airport"
+    }
+   ],
+   "warn": [
+    "הרכבת הבאה לשדה כ-36 דקות אחר כך. אם מפספסים, עדיין יש מרווח."
+   ],
+   "nav": {
+    "type": "transit",
+    "origin": "Syntagma Metro Station, Athens",
+    "destination": "Athens International Airport Eleftherios Venizelos",
+    "label": "מסלול לשדה"
+   }
+  },
+  {
+   "id": "u4",
+   "day": "sun",
+   "start": "07:35",
+   "end": "09:10",
+   "kind": "flight",
+   "emoji": "🛫",
+   "title": "שדה התעופה וטיסה הביתה",
+   "sub": "W4 8402 · 09:50",
+   "flightNo": "W4 8402",
+   "departs": "09:50",
+   "gateClose": "09:10",
+   "text": "בידוק ומעבר לשער. סגירת שער ב-09:10, המראה ב-09:50.",
+   "nav": {
+    "type": "dest",
+    "destination": "Athens International Airport Eleftherios Venizelos",
+    "mode": "walking",
+    "label": "ניווט לטרמינל"
+   }
+  }
+ ],
+ "info": [
+  {
+   "type": "reservations",
+   "icon": "🔐",
+   "title": "ההזמנות שלנו"
+  },
+  {
+   "type": "table",
+   "icon": "✈️",
+   "title": "מידע קריטי ליום הטיסה",
+   "rows": [
+    [
+     "יציאה מהמלון",
+     "{s:u1.start}"
+    ],
+    [
+     "מסלול",
+     "<bdi>Omonia</bdi> ← <bdi>Syntagma</bdi> ← <bdi>Athens International Airport</bdi>"
+    ],
+    [
+     "רכבת מטרה לבדיקה",
+     "{s:u3.targetTrain} מ-<bdi>Syntagma</bdi>"
+    ],
+    [
+     "סגירת שער",
+     "{s:u4.gateClose}"
+    ],
+    [
+     "המראה",
+     "{s:u4.departs}"
+    ],
+    [
+     "קוד אישור טיסה",
+     "{code:airline}"
+    ]
+   ],
+   "warn": "רק חלק מרכבות <bdi>M3</bdi> ממשיכות לשדה. בודקים שעל הרכבת כתוב <bdi>Αεροδρόμιο / Airport</bdi>.",
+   "note": "שעות הטיסה כפי שמופיעות בתכנון. לאמת מול כרטיס העלייה למטוס."
+  },
+  {
+   "type": "list",
+   "icon": "🎫",
+   "title": "כרטיסים ותחבורה",
+   "items": [
+    "כרטיס תייר ל-3 ימים: <b>€20</b> לאדם. כולל נסיעה אחת מהשדה ואחת אליו במטרו או ב-<bdi>X95</bdi>, ותחבורה עירונית ללא הגבלה ל-72 שעות.",
+    "רכבת הפרברים במקטע השדה אינה כלולה בכרטיס התייר. לכן משתמשים ב-<bdi>M3</bdi>.",
+    "מתקפים בכל כניסה למטרו ובכל עלייה לאוטובוס. כל אחד עם כרטיס משלו.",
+    "רכבות לשדה: בערך כל <bdi dir=\"ltr\">30–36</bdi> דקות. רק חלק מרכבות <bdi>M3</bdi> מגיעות לשדה.",
+    "בשבת <bdi>M2</bdi> ו-<bdi>M3</bdi> פועלים 24 שעות.",
+    "הפוניקולר של ליקבטוס אינו חלק מהמסלול. העלייה והירידה ברגל."
+   ]
+  },
+  {
+   "type": "table",
+   "icon": "🏨",
+   "title": "עוגנים",
+   "rows": [
+    [
+     "מלון",
+     "<bdi>{t:hotel.name}</bdi>, <bdi>{t:hotel.address}</bdi> · {map:HOTEL}"
+    ],
+    [
+     "{d:fri.label}",
+     "נחיתה {s:f1.start} · קלימטריה: הזמנה שמורה ל-{s:f4.booking}"
+    ],
+    [
+     "{d:sat.label}",
+     "פסגת ליקבטוס {s:s12.start} · שקיעה {d:sat.anchors.sunset}"
+    ],
+    [
+     "{d:sun.label}",
+     "יציאה {s:u1.start} · שער נסגר {s:u4.gateClose} · <bdi>{s:u4.flightNo}</bdi> ב-{s:u4.departs}"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "icon": "☀️",
+   "title": "מזג אוויר ומצב שטח",
+   "note": "עודכן ב-12.11.2026. כדאי להציץ שוב בבוקר שישי.",
+   "items": [
+    "שישי: חלקית שמשי, כ-22° ביום ו-17° בלילה.",
+    "שבת: שמשי ברובו, כ-23° ביום ו-14° בלילה, רוח חלשה.",
+    "ראשון: כ-20° ו-12°.",
+    "שביתות: לא פורסמה שביתת תחבורה לתאריכי הטיול. השביתה הכללית המתוכננת היא ב-25.11.",
+    "עבודות הלילה בקו <bdi>M3</bdi> הסתיימו ב-12.11."
+   ]
+  },
+  {
+   "type": "table",
+   "icon": "🗣️",
+   "title": "ביוונית",
+   "rows": [
+    [
+     "בוקר טוב",
+     "<bdi>Kaliméra</bdi>"
+    ],
+    [
+     "ערב טוב",
+     "<bdi>Kalispéra</bdi>"
+    ],
+    [
+     "תודה",
+     "<bdi>Efcharistó</bdi>"
+    ],
+    [
+     "בבקשה",
+     "<bdi>Parakaló</bdi>"
+    ],
+    [
+     "חשבון, בבקשה",
+     "<bdi>To logariasmó, parakaló</bdi>"
+    ],
+    [
+     "בלי חזיר?",
+     "<bdi>Chorís chirinó?</bdi>"
+    ]
+   ]
+  },
+  {
+   "type": "emergency",
+   "icon": "☎️",
+   "title": "חירום",
+   "rows": [
+    [
+     "חירום כללי",
+     "112"
+    ],
+    [
+     "משטרת תיירות",
+     "1571"
+    ]
+   ]
+  }
+ ],
+ "reservations": [
+  {
+   "id": "hotel",
+   "storageKey": "hotelConfirmation",
+   "name": "Ambrosia Suites & Aparts",
+   "address": "Sokratous 52, Athens",
+   "label": "קוד אישור המלון",
+   "note": "קוד זה ישמש לביצוע צ'ק-אין במלון",
+   "copied": "קוד המלון הועתק",
+   "aria": "קוד המלון",
+   "nav": {
+    "destination": "Ambrosia Suites & Aparts, Sokratous 52, Athens",
+    "label": "🧭 ניווט למלון"
+   }
+  },
+  {
+   "id": "airline",
+   "storageKey": "airlineConfirmation",
+   "label": "קוד אישור חברת התעופה",
+   "copied": "קוד הטיסה הועתק",
+   "aria": "קוד הטיסה"
+  }
+ ],
+ "ui": {
+  "simRibbon": "🧪 מצב סימולציה: השעה נלקחת מההגדרות במסך המידע",
+  "install": "התקנה",
+  "navAria": "ימים",
+  "infoTab": "מידע",
+  "infoIcon": "ℹ️",
+  "defaultDayIcon": "📅",
+  "infoTitle": "מידע שימושי",
+  "infoSub": "כרטיסים, תחבורה, טלפונים והגדרות",
+  "offlineTitle": "📶 אופליין",
+  "offlineText": "האפליקציה עובדת בלי אינטרנט אחרי פתיחה ראשונה. כדי שגם התמונות יישמרו, לחצו פעם אחת כשיש Wi-Fi.",
+  "cacheBtn": "💾 שמירת כל התמונות",
+  "installHelp": "באייפון: שיתוף ואז \"הוספה למסך הבית\". באנדרואיד: כפתור \"התקנה\" למעלה או בתפריט של Chrome.",
+  "simTitle": "🧪 בדיקת המסלול לפני הנסיעה",
+  "simText": "בחרו תאריך ושעה כדי לראות איך האפליקציה תתנהג באותו רגע.",
+  "simOn": "הפעלה",
+  "simOff": "חזרה לשעון אמיתי",
+  "resetAll": "🔄 איפוס כל הסימונים",
+  "creditsTitle": "📷 קרדיט תמונות",
+  "fab": "📍 לשלב הנוכחי",
+  "fabDay": "📍 לשלב הנוכחי ({day})",
+  "min": "{m} דק׳",
+  "hours": "{h} ש׳",
+  "hoursMin": "{h} ש׳ ו-{m} דק׳",
+  "days": "{d} ימים",
+  "daysHours": "{d} ימים ו-{h} ש׳",
+  "tagOptional": "אופציונלי",
+  "tagHighlight": "שיא היום",
+  "lineDir": "כיוון <b>{dir}</b> · יורדים ב-<b>{off}</b>",
+  "say": "🗣️ אומרים:",
+  "showMap": "📍 הצג במפה",
+  "mapLink": "📍 מפה",
+  "unskip": "↩️ בטל דילוג",
+  "skip": "⏭️ דלג",
+  "checkAria": "סימון בוצע: {title}",
+  "noNav": "אין צורך בניווט בשלב הזה.",
+  "here": "📍 אתם כאן",
+  "dayCount": "{c}/{n} בוצעו",
+  "onTime": "בזמן",
+  "doneAll": "✔ הושלם",
+  "doneTitle": "סיימתם את כל המסלול",
+  "doneSub": "נסיעה טובה הביתה ✈️",
+  "startsIn": "⏳ הטיול מתחיל בעוד {x}",
+  "plannedAt": "🕐 מתוכנן ל-{t} · בעוד {x}",
+  "onTimeLeft": "✅ בזמן · עוד {x} לפי התכנון",
+  "late": "⏰ מאחרים ב-{x}",
+  "shorten": "כדי להספיק את <b>{title}</b> ({t}) כדאי לקצר את השלבים הבאים{opt}.",
+  "shortenOpt": " ולדלג על האופציונליים",
+  "canSkip": "אפשר לדלג על <b>{title}</b> כדי להשלים פער.",
+  "canShorten": "אפשר לקצר את השלב הנוכחי ולהמשיך.",
+  "byClock": "לפי הלו״ז עכשיו: {title} ({t})",
+  "doneHere": "✓ סיימנו כאן",
+  "doneNext": "✓ סיימנו, לשלב הבא",
+  "next": "אחר כך:",
+  "progress": "{day}: {p}% הושלם",
+  "stepOf": "שלב {i} מתוך {n}",
+  "undo": "ביטול",
+  "ffDone": "דילגנו על {n} שלבים. סמנו \"סיימנו\" כשתסיימו את השלב הנוכחי",
+  "ffUndo": "ביטול הדילוג",
+  "simActive": "מצב סימולציה פעיל",
+  "simReal": "חזרה לשעון אמיתי",
+  "resetConfirm": "לאפס את כל הסימונים?",
+  "resetDone": "הסימונים אופסו",
+  "caching": "שומר תמונות…",
+  "cached": "נשמרו {ok} מתוך {n} תמונות לשימוש בלי אינטרנט.",
+  "codeEmpty": "לא הוזן",
+  "save": "שמירה",
+  "cancel": "ביטול",
+  "codePlaceholder": "הקלידו את הקוד",
+  "show": "👁️ הצג",
+  "hide": "🙈 הסתר",
+  "showAria": "הצג {what}",
+  "hideAria": "הסתר {what}",
+  "copy": "📋 העתקה",
+  "copyAria": "העתקת {what}",
+  "edit": "✏️ עריכה",
+  "editAria": "עריכת {what}",
+  "enter": "➕ הזנת קוד",
+  "enterAria": "הזנת {what}",
+  "resNote": "הקודים נשמרים רק בדפדפן של המכשיר הזה. הם לא נשלחים לשום שרת ולא נכללים בקבצי האתר. זה אינו אחסון מוצפן.",
+  "wipe": "🗑️ מחיקת פרטי ההזמנות מהמכשיר",
+  "wipeConfirm": "למחוק את קודי האישור מהמכשיר?",
+  "wiped": "פרטי ההזמנות נמחקו מהמכשיר",
+  "copyFail": "ההעתקה נכשלה. אפשר להציג את הקוד ולהעתיק ידנית",
+  "invalidCode": "קוד לא תקין: 3 עד 20 תווים, אותיות לטיניות, ספרות או מקף.",
+  "saveFail": "השמירה נכשלה במכשיר הזה.",
+  "saved": "הקוד נשמר במכשיר",
+  "newVersion": "יש גרסה חדשה של המסלול",
+  "update": "עדכן",
+  "loadFail": "טעינת נתוני הטיול נכשלה. בדקו חיבור ונסו שוב."
+ }
+}
